@@ -1,0 +1,39 @@
+/* add your CSS here */
+
+.list {
+    padding: 0;
+    list-style-type:none;
+}
+
+.fact {
+    font-style: italic;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.panel {
+     border: 2px solid #e4e2e2;
+     margin: 20px;
+     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.13);
+     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.13);
+     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.13);
+     width: 320px;
+     background-color: #f5eaea;
+}
+
+.panel-description {
+     border: 2px solid #e4e2e2;
+     margin: 10px;
+     padding: 10px;
+}
+
+.image {
+    margin-left: 10px;
+    width: 300px;
+}
+
+.name {
+    margin-left: 10px;
+}
