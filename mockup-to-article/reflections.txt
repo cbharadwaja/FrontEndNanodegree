@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+
+* What new skills have you learned?
+I have worked on HTML during my experience, I am into this course to get a strong understanding of JavaScript to learn frontend frameworks.
+
+* What has been easy?
+
+The index.html file with placeholder HTML code has made it easy to complete the project.
+  
+* What has been difficult?
+
+Initally it was difficult to figure out the links in the index.html file. But looking through the HTML thouroughly, I was able to identify the links and proceed.
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+Yes, I was able to understand the HTML tree structure better. I started using sublime text editor for my frontend projects.
